@@ -24,7 +24,7 @@ Feel free to look through my collection of completed and attempted projects! ðŸ˜
 * TypeScript
 * NodeJS
 * ReactJS
-* Express
+* ExpressJS
 * MongoDB
 * MATLAB
 * SQL
