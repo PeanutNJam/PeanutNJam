@@ -21,8 +21,6 @@ my coding skills!
 * MongoDB
 * MATLAB
 * SQL
-
-🌱 Completed Projects
 ---
 <!--
 **PeanutNJam/PeanutNJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
