@@ -1,5 +1,5 @@
 ![nightlife](https://github.com/PeanutNJam/PeanutNJam/assets/106653269/e9e473ba-32c5-4702-982e-39eaff1d3d77)
-### Welcome, My Name is Yu Xuan! 👋
+### Welcome, Yu Xuan here! 👋
 
 ---
 Here to do my best to expand my knowledge in the field of computer science and, I'm always eager to improve and test
