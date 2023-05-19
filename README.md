@@ -2,8 +2,15 @@
 ### Welcome, My Name is Yu Xuan! 👋
 
 ---
-Here to do my best to expand my knowledge in the field of computer science and, I'm always eager to improve
+Here to do my best to expand my knowledge in the field of computer science and, I'm always eager to improve and test
 my coding skills!
+
+Feel free to look through my collection of completed and attempted projects! 😙
+
+🔭 I’m currently working on
+---
+* 🌱Data Structures and Algorithms (Neetcoding and Leetcoding)
+* 🥞Fullstack Developer Skills 
 
 📫 Connect with me:
 ---
