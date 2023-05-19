@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://github.com/PeanutNJam/PeanutNJam/assets/106653269/8ee756e8-4ed1-45d5-907b-1e13fb55e090)
+### Welcome, My Name is Yu Xuan! 👋
 
 <!--
 **PeanutNJam/PeanutNJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
