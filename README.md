@@ -1,4 +1,4 @@
-![image](https://github.com/PeanutNJam/PeanutNJam/assets/106653269/8ee756e8-4ed1-45d5-907b-1e13fb55e090)
+![nightlife](https://github.com/PeanutNJam/PeanutNJam/assets/106653269/e9e473ba-32c5-4702-982e-39eaff1d3d77)
 ### Welcome, My Name is Yu Xuan! 👋
 
 <!--
