@@ -13,8 +13,8 @@ Feel free to look through my collection of completed and attempted projects! �
 
 📫 Connect with me:
 ---
-* 🤝[LinkedIn](https://www.linkedin.com/in/ng-yu-xuan/)
-* 📧ngyuxuan1997@gmail.com
+* 🤝 [LinkedIn](https://www.linkedin.com/in/ng-yu-xuan/)
+* 📧 ngyuxuan1997@gmail.com
 
 🛠️ Languages and Tools:
 ---
