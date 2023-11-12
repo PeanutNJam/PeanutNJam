@@ -8,8 +8,8 @@ Feel free to look through my collection of completed and attempted projects! �
 
 🔭 I’m currently working on
 ---
-* 🌱Data Structures and Algorithms (Neetcoding and Leetcoding)
-* 🥞Fullstack Developer Skills 
+* 🌱 Data Structures and Algorithms (Neetcoding and Leetcoding)
+* 🥞 Fullstack Developer Skills 
 
 📫 Connect with me:
 ---
