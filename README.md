@@ -19,11 +19,12 @@ Feel free to look through my collection of completed and attempted projects! �
 🛠️ Languages and Tools:
 ---
 * Python
-* Java
 * JavaScript
 * TypeScript
-* NodeJS
 * ReactJS
+* Java
+* Spring Boot
+* NodeJS
 * ExpressJS
 * MongoDB
 * MATLAB
