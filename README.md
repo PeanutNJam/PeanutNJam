@@ -8,13 +8,16 @@ Feel free to look through my collection of completed and attempted projects! �
 
 🔭 I’m currently working on
 ---
-* 🌱 Data Structures and Algorithms (Neetcoding and Leetcoding)
+* 🌱 Data Structures and Algorithms
+* ⚡ Dev-Ops/Cloud stuff
 * 🥞 Fullstack Developer Skills 
 
 📫 Connect with me:
 ---
-* 🤝 [LinkedIn](https://www.linkedin.com/in/ng-yu-xuan/)
-* 📧 ngyuxuan1997@gmail.com
+* 🤝 [LinkedIn] (https://www.linkedin.com/in/ng-yu-xuan/)
+* 📧 [Email] ngyuxuan1997@gmail.com
+* 🔭 [LeetCode] https://leetcode.com/peanutjam97/
+* 💬 [Personal Website] https://yuxuanng-seven-rouge.vercel.app/
 
 🛠️ Languages and Tools:
 ---
@@ -27,7 +30,6 @@ Feel free to look through my collection of completed and attempted projects! �
 * NodeJS
 * ExpressJS
 * MongoDB
-* MATLAB
 * SQL
 ---
 <!--
