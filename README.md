@@ -4,7 +4,7 @@
 ---
 I am dedicated to expanding my knowledge in the field of computer science and consistently strive to improve my coding skills. Additionally, I am also highly motivated to enhance my expertise through continuous learning and rigorous testing of my abilities!
 
-Feel free to look through my collection of completed and attempted projects! 😙
+Feel free to look through my collection of completed or attempted projects! 😙
 
 🔭 I’m currently working on
 ---
