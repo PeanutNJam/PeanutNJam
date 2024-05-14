@@ -17,6 +17,7 @@ Feel free to look through my collection of completed or attempted projects! 😙
 * 🤝 [LinkedIn] (https://www.linkedin.com/in/ng-yu-xuan/)
 * 📧 [Email] (ngyuxuan1997@gmail.com)
 * 🔭 [LeetCode] (https://leetcode.com/peanutjam97/)
+* ⚡ [Kaggle] (https://www.kaggle.com/peanutjam123/)
 * 💬 [Personal Website] (https://yuxuanng-seven-rouge.vercel.app/)
 
 🛠️ Languages and Tools:
