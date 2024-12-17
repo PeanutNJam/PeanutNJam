@@ -10,7 +10,7 @@ Feel free to look through my collection of completed or attempted projects! 😙
 ---
 * 🌱 Data Structures and Algorithms
 * ⚡ AI/Machine Learning
-* 🥞 Fullstack Developer Skills 
+* 🥞 Full-Stack Developer Skills 
 
 📫 Connect with me:
 ---
