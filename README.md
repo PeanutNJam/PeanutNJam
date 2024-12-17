@@ -9,7 +9,7 @@ Feel free to look through my collection of completed or attempted projects! 😙
 🔭 I’m currently working on
 ---
 * 🌱 Data Structures and Algorithms
-* ⚡ Dev-Ops/Cloud stuff
+* ⚡ AI/Machine Learning
 * 🥞 Fullstack Developer Skills 
 
 📫 Connect with me:
